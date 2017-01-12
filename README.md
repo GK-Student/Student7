@@ -1,4 +1,4 @@
 # Student7
 
 Jagat
-More Summary 
+More texts : Github for version control.
