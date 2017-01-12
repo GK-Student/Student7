@@ -1,3 +1,3 @@
 # Student7
 
-Jagat Kalathia
+Jagat
